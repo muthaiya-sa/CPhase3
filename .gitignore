@@ -1,0 +1,4 @@
+*.exe
+*.o
+train
+data/tickets.dat
